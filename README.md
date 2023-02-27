@@ -1,2 +1,2 @@
-# Blood-Bank-DB
+# Blood-Bank-Database
 A MS SQL server and C# Client wit GUI. Administrators can modify, delete and create entries while users can create accounts, and query the database.
