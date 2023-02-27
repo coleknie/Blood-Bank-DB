@@ -1,0 +1,1 @@
+﻿CREATE TABLE TCompatability (donator VARCHAR(3), receiver VARCHAR(3), PRIMARY KEY (donator, receiver), FOREIGN KEY (donator) REFERENCES Type (typename), FOREIGN KEY (receiver) REFERENCES Type (typename))
